@@ -5,8 +5,8 @@
   "version": "6.0.0",
   "keywords": [],
   "dependencies": {
-    "ericgj/observ": "~0.2.0",
-    "ericgj/xtend": "^3.0.0"  
+    "ericgj/observ": "master",
+    "ericgj/xtend": "master"  
   },
   "development": {},
   "license": "MIT",
